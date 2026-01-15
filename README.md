@@ -40,3 +40,19 @@ The project uses **Natural Language Processing (NLP)** techniques such as **N-gr
 ---
 
 ## 📂 Project Structure
+autocorrect-keyboard/
+│
+├── data/
+│ └── corpus.txt
+│
+├── model/
+│ └── next_word_model.h5
+│
+├── src/
+│ ├── preprocess.py
+│ ├── train.py
+│ └── predict.py
+│
+├── requirements.txt
+├── README.md
+└── main.py
