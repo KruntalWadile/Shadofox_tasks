@@ -56,3 +56,8 @@ autocorrect-keyboard/
 ├── requirements.txt
 ├── README.md
 └── main.py
+👤 Author
+
+Kruntal Wadile
+Third Year Engineering Student
+
